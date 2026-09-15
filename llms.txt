@@ -1,0 +1,31 @@
+# PUPUIA
+
+> Plataforma web de gestión conversacional con inteligencia artificial para empresas y organizaciones.
+
+## Resumen
+
+PUPUIA centraliza conversaciones de WhatsApp y Web en un único dashboard. Combina respuestas automáticas con IA y atención humana, permite asignar asesores, administrar campañas y plantillas, organizar contactos mediante etiquetas y analizar conversaciones.
+
+## Funciones principales
+
+- Bandeja centralizada para WhatsApp y Web.
+- Asistente de IA entrenado con información de la organización.
+- Cambio entre atención automática y manual.
+- Asignación de conversaciones y métricas de asesores.
+- Campañas y plantillas de mensajes.
+- Etiquetas, segmentación y archivos adjuntos.
+- Resúmenes automáticos de conversaciones.
+- Análisis de sentimiento, derivaciones y gaps de conocimiento.
+
+## Integraciones
+
+- Disponibles: WhatsApp y Web.
+- Próximamente: integración directa con Instagram, Facebook y Email.
+
+## Contacto
+
+- Web: https://pupuia.com/
+- Sistema: https://chat.pupuia.com/
+- Email: info@pupuia.com
+- WhatsApp: +54 9 221 649-1820
+- Privacidad: https://pupuia.com/privacidad.html
